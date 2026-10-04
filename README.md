@@ -6,10 +6,19 @@
   </a>
   <br><br>
 
-  <!-- Title & Typing Effect -->
+  <!-- Title & Typing Effect (الاسم بلون ورودي نيون متوهج ورائع) -->
   <a href="https://github.com/Mona">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F724A9&center=true&vCenter=true&width=435&height=50&lines=I+am+Mona+Mohamed" alt="I am Mona Mohamed" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&height=50&lines=I+am+Mona+Mohamed;Frontend+Web+Developer;Building+Awesome+Web+Apps!" alt="I am Mona Mohamed" />
   </a>
+  <br>
+
+  <!-- Profile Visitors Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Mona-WebDev&color=ff79c6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br><br>
+
+  <!-- Current Status -->
+  ![Status](https://img.shields.io/badge/Status-%F0%9F%92%BB%20Building%20E--Commerce%20%26%20Web%20Apps-ff79c6?style=for-the-badge)
+
   <br><br>
 
   <!-- Tools Badges -->
