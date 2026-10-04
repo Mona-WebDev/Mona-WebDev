@@ -1,53 +1,35 @@
-<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<h1>
+  Hi There I'm Mona Mohamed  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+<p>
+I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+</p>
 
-  <!-- Header Animated GIF -->
-  <a href="https://github.com/Mona">
-    <img src="https://github.com/Mona/Mona-WebDev/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
-  </a>
-  <br><br>
+- 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
+- 📚 I’m currently learning about Frontend and Backend technologies.
+- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+  
+- 📫 Social links
+<p>
 
-  <!-- Title & Typing Effect (تم إضافة &v=2 للتغلب على الـ Cache وتطبيق لون بوتستراب البنفسجي) -->
-  <a href="https://github.com/Mona">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=32&pause=1000&color=563D7C&center=true&vCenter=true&width=500&height=50&lines=I+am+Mona+Mohamed;Frontend+Web+Developer;Building+Awesome+Web+Apps!&v=2" alt="I am Mona Mohamed" />
-  </a>
-  <br>
+<a href="[https://www.linkedin.com/in/mohamedelkashef/](https://www.linkedin.com/in/mona-mohamed-17061240a/?isSelfProfile=true)"><img
+    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 
-  <!-- Profile Visitors Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Mona-WebDev&color=563d7c&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <br><br>
+</p>
 
-  <!-- Current Status -->
-  ![Status](https://img.shields.io/badge/Status-%F0%9F%92%BB%20Building%20E--Commerce%20%26%20Web%20Apps-563d7c?style=for-the-badge)
+### 🛠 &nbsp;Technologies that I work with
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-  <br><br>
 
-  <!-- Tools Badges with Padding -->
-  ![Tools I use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange?style=for-the-badge)
-  &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  &nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  &nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  &nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  &nbsp;
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-  &nbsp;
-  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  &nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
 <br>
-
-```javascript
-// Tools & Technologies I use
-
-const aboutMona = {
-  programmingLanguages: ["JavaScript", "Python"],
-  markupAndStyling: ["HTML5", "CSS3", "Bootstrap 5"],
-  versionControl: ["Git", "GitHub"],
-  editor: "VS Code"
-};
+<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+</a>
